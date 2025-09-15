@@ -21,8 +21,6 @@ function createPeliList (category) {
   return pelisCategory.map(peli => template(peli)).join('')
 }
 
-createPeliList("Acción")
-
 accion.innerHTML = createPeliList("Acción")
 terror.innerHTML = createPeliList("Terror")
 comedia.innerHTML = createPeliList("Comedia")
