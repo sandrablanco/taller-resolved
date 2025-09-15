@@ -56,12 +56,7 @@ Crear una página de aterrizaje tipo "Netflix" donde:
 - Añadir los títulos de las películas como `<h3>` dentro de cada tarjeta.
 - (Opcional) Añadir filtros por género o búsqueda.
 
-### 5. Accesibilidad y buenas prácticas
-- Usar atributos `alt` descriptivos en las imágenes.
-- Mantener la jerarquía de encabezados.
-- Revisar el contraste y la legibilidad de los textos.
-
-### 6. Revisión y pruebas
+### 5. Revisión y pruebas
 - Probar la navegación por anclas y el scroll suave.
 - Revisar el comportamiento responsive en diferentes tamaños de pantalla.
 - Comprobar que el contenido se genera correctamente y que la estructura es semántica.
