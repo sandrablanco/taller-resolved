@@ -64,7 +64,8 @@ Crear una página de aterrizaje tipo "Netflix" donde:
 ---
 ## HELP
 En la carpeta assets/`help` hay un archivo txt con cosas interesantes que puedes usar.
-___
+
+---
 
 # Glosario de términos
 
