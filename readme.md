@@ -7,6 +7,8 @@ Para ello, el departamento de diseño nos ha compartido un pantallazo con las di
 # Vista previa
 ![Vista previa de la landing](assets/landing.png)
 
+`GITHUB PAGES:` https://carlosdiazgirol.github.io/taller-resolve/
+
 # Colores
 - background: #000000;
 - primary: #e50914;
